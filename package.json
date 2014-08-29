@@ -7,14 +7,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dzearing/onejs.git"
+    "url": "https://peterjahn.visualstudio.com/DefaultCollection/_git/Redliner.js"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/dzearing/onejs/issues"
-  },
-  "homepage": "https://github.com/dzearing/onejs",
+  "homepage": "https://peterjahn.visualstudio.com/DefaultCollection/Redliner.js",
   "devDependencies": {
     "requirejs": "^2.1.14",
     "gulp": "^3.8.5",
